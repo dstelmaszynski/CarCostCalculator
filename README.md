@@ -7,23 +7,23 @@
  - cost per 1 year
    
 Application also presents summarise score which is a sum of: car purchase cost + 1 year using cost. Example of input:
-**How many cars do you want to compare?** --> only integers are allowed
+- **How many cars do you want to compare?** --> only integers are allowed
 2
-**Please enter car brand!** --> only letters are allowed
+- **Please enter car brand!** --> only letters are allowed
 Kia
-**Please enter car brand!** --> only letters are allowed
+- **Please enter car brand!** --> only letters are allowed
 Opel
-**How much car: Kia cost?** --> only integers are allowed
+- **How much car: Kia cost?** --> only integers are allowed
 70000
-**How much car: Opel cost?**
+- **How much car: Opel cost?**
 85000
-**How many miles per year?** --> only integers are allowed
+- **How many miles per year?** --> only integers are allowed
 15000
-**How much gas per 100 km, car: Kia?** --> only deciaml numbers are allowed
+- **How much gas per 100 km, car: Kia?** --> only deciaml numbers are allowed
 6,5
-**How much gas per 100 km, car: Opel?**
+- **How much gas per 100 km, car: Opel?**
 8,2
-**How much cost petrol now?** --> only deciaml numbers are allowed
+- **How much cost petrol now?** --> only deciaml numbers are allowed
 6,30
 
 Note*
